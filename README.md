@@ -1,2 +1,2 @@
 # personal
-Personal repo for trying things out
+Personal repo for trying things out.
